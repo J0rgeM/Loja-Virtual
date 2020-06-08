@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248527435816",
+    "firebase_url": "https://applojavirtual-d012c.firebaseio.com",
+    "project_id": "applojavirtual-d012c",
+    "storage_bucket": "applojavirtual-d012c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248527435816:android:0b95a89f283157e0a9dd1d",
+        "android_client_info": {
+          "package_name": "pt.com.jorge.applojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248527435816-kp5n0ontv368rt7hm40du08595iq8u97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziIewz_0CXFt-LSAu-97rB3dO7hSKUyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248527435816-kp5n0ontv368rt7hm40du08595iq8u97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248527435816-4s0enl29etpuamjv1m8s7aqklsoj7nmb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pt.com.jorge.applojavirtual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
